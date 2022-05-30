@@ -1,0 +1,15 @@
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 1.1rem;
+  padding: 5px 10px;
+  gap: .5rem;
+  font-weight: 600;
+  border: 2px solid;
+}
+
+.button:hover {
+  cursor: pointer;
+  filter: brightness(96%);
+}
