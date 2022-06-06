@@ -1,10 +1,11 @@
 {
   "name": "wallet-connect-buttons",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "",
   "scripts": {
     "rollup": "rollup -c",
-    "test": "jest"
+    "test": "jest",
+    "build": "rollup -c"
   },
   "repository": {
     "type": "git",
